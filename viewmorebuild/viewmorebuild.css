@@ -1,0 +1,49 @@
+.container1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.enroll a:hover
+{
+    text-decoration: none;
+color:beige;
+}
+.image {
+    width: 150px;
+    height: 150px;
+}
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+   
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+   
+}
+
+.content1 {
+    flex: 1;
+    margin-left: 20px;
+}
+
+
+
+/* Style the button */
+#enrollButton1 {
+    padding: 10px 20px;
+    background-color: #17bf9e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#enrollButton1:hover {
+    background-color: rgb(95, 163, 138) ;
+}
